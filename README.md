@@ -10,4 +10,4 @@ Hello! 👋
     - 🍃 A minimal theme (**Headwind**) for Obsidian
 - ✍️ Reach me at: mathiot.daniel@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danymat&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danymat&layout=compact&theme=onedark&exclude_repo=dotfiles)
