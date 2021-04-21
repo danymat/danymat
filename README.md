@@ -6,6 +6,7 @@ Hello! 👋
 
 - 🎓 I'm currently enrolled in a Cybersecurity engineering program.
 - I'm currently doing: 
+    - ⚖️ A python package to anonymize tables
     - ✂️ My own markdown parser (**Obsidian Markdown Parser**)
     - 🍃 A minimal theme (**Headwind**) for Obsidian
 - ✍️ Reach me at: mathiot.daniel@gmail.com
