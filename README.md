@@ -10,6 +10,8 @@ Hello! 👋
     - 📝 A lightweight LSP for Zettelkasten ([lsp-zettelkasten](https://github.com/danymat/lsp-zettelkasten))
 - I'm currently learning:
     - Lua language! (and doing a side project: [zettellua](https://github.com/danymat/zettellua))
+    - [TryHackMe](https://tryhackme.com/p/danymat)
+    - [HackTheBox](https://app.hackthebox.eu/profile/296919)
 - ✍️ Reach me at: mathiot.daniel@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danymat&layout=compact&theme=onedark&exclude_repo=dotfiles)
