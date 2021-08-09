@@ -11,9 +11,9 @@ Hello! 👋
     - [HackTheBox](https://app.hackthebox.eu/profile/296919)
 - ✍️ Reach me at: mathiot.daniel@gmail.com
 
-### Projects I Maintain
+### Projects I Contribute
 
-Still thinking of a huge project to start with (problably in Lua)...
+- Contributor at [Neorg](https://github.com/vhyrro/neorg)
 
 ### Projects I Used To Maintain
 
