@@ -13,8 +13,8 @@ Hello! 👋
 
 ### What do I currently do ?
 
-- Contributor at [Neorg](https://github.com/vhyrro/neorg)
-- Creator of [Neogen](https://github.com/danymat/neogen)
+- Core Contributor at [Neorg](https://github.com/vhyrro/neorg), primarly focused on GTD implementation.
+- Creator of [Neogen](https://github.com/danymat/neogen): an extensible annotation generator plugin for neovim 
 ### Projects I Used To Maintain
 
 - ⚖️ A python package to anonymize tables ([INSAnonym-utils](https://github.com/danymat/INSAnonym-utils/))
