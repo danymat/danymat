@@ -1,7 +1,10 @@
+<div align="center">
+    
 # Daniel Mathiot 
 
 Hello! 👋
 
+</div>
 
 ## Who am I ?
 
@@ -21,5 +24,5 @@ Hello! 👋
 - 📝 A lightweight LSP for Zettelkasten ([lsp-zettelkasten](https://github.com/danymat/lsp-zettelkasten))
 - A Simple Markdown Parser for Obsidian ([Obsidian-Markdown-Parser](https://github.com/danymat/Obsidian-Markdown-Parser))
 
-![](https://github-readme-stats.vercel.app/api?username=danymat&show_icons=true&theme=onedark)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=danymat&show_icons=true&title_color=ebbcba&text_color=e0def4&icon_color=eb6f92&bg_color=20,191724,26233a" alt="danymat" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danymat&label=Profile%20views&color=0e75b6&style=flat" alt="danymat" /> </p>
