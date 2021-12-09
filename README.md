@@ -1,9 +1,5 @@
 <div align="center">
-    
-# Daniel Mathiot 
-
-Hello! 👋
-
+    <img src="https://user-images.githubusercontent.com/5306901/145381983-21906272-1290-4735-b945-847c5607749d.gif" style="width: 80%; height: auto;"/>
 </div>
 
 ## Who am I ?
