@@ -8,12 +8,14 @@
 - 🎓 I'm currently enrolled in a Cybersecurity engineering program.
     - [TryHackMe](https://tryhackme.com/p/danymat)
     - [HackTheBox](https://app.hackthebox.eu/profile/296919)
+- 👨🏻‍💻 I'm a freelance web developer
 - ✍️ Reach me at: mathiot.daniel@gmail.com
 
 ### What do I currently do ?
 
 - Core Contributor at [Neorg](https://github.com/vhyrro/neorg), primarly focused on GTD implementation.
 - Creator of [Neogen](https://github.com/danymat/neogen): an extensible annotation generator plugin for neovim 
+
 ### Projects I Used To Maintain
 
 - ⚖️ A python package to anonymize tables ([INSAnonym-utils](https://github.com/danymat/INSAnonym-utils/))
