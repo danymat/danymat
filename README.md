@@ -4,6 +4,7 @@
 
 ## Who am I ?
 
+- Hello from 🇫🇷 !
 - I enjoy making software
 - 🎓 I'm currently enrolled in a Cybersecurity engineering program.
     - [TryHackMe](https://tryhackme.com/p/danymat)
