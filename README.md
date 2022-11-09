@@ -4,13 +4,19 @@
 
 ## Who am I ?
 
+In a short sentence, I'm just a man trying to apply humanist action in the great scheme of Internet.
+
+To dive a bit deeper:
 - Hello from 🇫🇷 !
-- I enjoy making software
-- 🎓 I'm currently enrolled in a Cybersecurity engineering program.
+- 🎓 I'm proud to be a CyberSecurity Engineer.
+- I'm a "Medium" pwner:
     - [TryHackMe](https://tryhackme.com/p/danymat)
     - [HackTheBox](https://app.hackthebox.eu/profile/296919)
 - 👨🏻‍💻 I'm a freelance web developer
-- ✍️ Reach me at: mathiot.daniel@gmail.com
+- 
+To go a **lot** deeper, go on my [Brain](https://publish.obsidian.com/danymat)
+
+✍️ Reach me at: mathiot.daniel@gmail.com if you like my job and want to send me a cheers, or a constructive feedback !
 
 ### What do I currently do ?
 
