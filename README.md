@@ -13,7 +13,7 @@ To dive a bit deeper:
     - [TryHackMe](https://tryhackme.com/p/danymat)
     - [HackTheBox](https://app.hackthebox.eu/profile/296919)
 - 👨🏻‍💻 I'm a freelance web developer
-- 
+
 To go a **lot** deeper, go on my [Brain](https://publish.obsidian.com/danymat)
 
 ✍️ Reach me at: mathiot.daniel@gmail.com if you like my job and want to send me a cheers, or a constructive feedback !
