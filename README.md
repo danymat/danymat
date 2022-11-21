@@ -8,8 +8,8 @@ In a short sentence, I'm just a man trying to apply humanist action in the great
 
 To dive a bit deeper:
 - Hello from 🇫🇷 !
-- 🎓 I'm proud to be a CyberSecurity Engineer.
-- I'm a "Medium" pwner:
+- 🎓 I'm proud to be a CyberSecurity Engineer, doing Pentest on web applications..
+- I'm a "Pro Hacker" pwner on HTB, doing "Medium" boxes:
     - [TryHackMe](https://tryhackme.com/p/danymat)
     - [HackTheBox](https://app.hackthebox.eu/profile/296919)
 - 👨🏻‍💻 I'm a freelance web developer
