@@ -18,6 +18,7 @@ To go a **lot** deeper, go on my [Brain](https://publish.obsidian.com/danymat)
 
 ✍️ Reach me at: mathiot.daniel@gmail.com if you like my job and want to send me a cheers, or a constructive feedback !
 
+> If you like my work and want to send me a small nudge (whatever you can do is taken with a lot of gratitude), feel free to support on [Paypal](https://www.paypal.com/paypalme/mathiotdaniel)
 ### What do I currently do ?
 
 - Core Contributor at [Neorg](https://github.com/vhyrro/neorg), primarly focused on GTD implementation.
