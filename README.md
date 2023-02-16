@@ -16,15 +16,17 @@ To dive a bit deeper:
 
 To go a **lot** deeper, go on my [Brain](https://danielmathiot.tech/notes)
 
-✍️ Reach me at: mathiot.daniel@gmail.com if you like my job and want to send me a cheers, or a constructive feedback !
+## Contact
+
+- ✍️ Reach me at: https://matrix.to/#/@danymat:matrix.org
 
 > If you like my work and want to send me a small nudge (whatever you can do is taken with a lot of gratitude), feel free to support on [Paypal](https://www.paypal.com/paypalme/mathiotdaniel)
-### What do I currently do ?
+## What do I currently do ?
 
 - Core Contributor at [Neorg](https://github.com/vhyrro/neorg), primarly focused on GTD implementation.
 - Creator of [Neogen](https://github.com/danymat/neogen): an extensible annotation generator plugin for neovim 
 
-### Projects I Used To Maintain
+## Projects I Used To Maintain
 
 - ⚖️ A python package to anonymize tables ([INSAnonym-utils](https://github.com/danymat/INSAnonym-utils/))
 - 📝 A lightweight LSP for Zettelkasten ([lsp-zettelkasten](https://github.com/danymat/lsp-zettelkasten))
