@@ -14,11 +14,7 @@ To dive a bit deeper:
     - [HackTheBox](https://app.hackthebox.eu/profile/296919)
 - 👨🏻‍💻 I'm a freelance web developer
 
-To go a **lot** deeper, go on my [Brain](https://danielmathiot.tech/notes)
-
-## Contact
-
-- ✍️ Reach me at: https://matrix.to/#/@danymat:matrix.org
+<!-- To go a **lot** deeper, go on my [Brain](https://danielmathiot.tech/notes) -->
 
 > If you like my work and want to send me a small nudge (whatever you can do is taken with a lot of gratitude), feel free to support on [Paypal](https://www.paypal.com/paypalme/mathiotdaniel)
 ## What do I currently do ?
