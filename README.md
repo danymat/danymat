@@ -8,19 +8,18 @@ In a short sentence, I'm just a man trying to apply humanist action in the great
 
 To dive a bit deeper:
 - Hello from 🇫🇷 !
-- 🎓 I'm proud to be a CyberSecurity Engineer, doing Pentest on web applications..
+- 🎓 CyberSecurity Engineer
+- 🗄️ Working as a Pentester in a tech company
 - I'm a "Pro Hacker" pwner on HTB, doing "Medium" boxes:
     - [TryHackMe](https://tryhackme.com/p/danymat)
     - [HackTheBox](https://app.hackthebox.eu/profile/296919)
-- 👨🏻‍💻 I'm a freelance web developer
 
-<!-- To go a **lot** deeper, go on my [Brain](https://danielmathiot.tech/notes) -->
 
-> If you like my work and want to send me a small nudge (whatever you can do is taken with a lot of gratitude), feel free to support on [Paypal](https://www.paypal.com/paypalme/mathiotdaniel)
 ## What do I currently do ?
 
-- Core Contributor at [Neorg](https://github.com/vhyrro/neorg), primarly focused on GTD implementation.
+- Live updating my ["brain"](https://publish.obsidian.md/danymat) on internet 🧐
 - Creator of [Neogen](https://github.com/danymat/neogen): an extensible annotation generator plugin for neovim 
+- Core Contributor at [Neorg](https://github.com/vhyrro/neorg), primarly focused on GTD implementation.
 
 ## Projects I Used To Maintain
 
