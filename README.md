@@ -17,7 +17,7 @@ To dive a bit deeper:
 
 ## What do I currently do ?
 
-- Live updating my ["brain"](https://publish.obsidian.md/danymat) on internet 🧐
+- Live updating my ["brain"](https://danymat.dev) on internet 🧐
 - Creator of [Neogen](https://github.com/danymat/neogen): an extensible annotation generator plugin for neovim 
 - Core Contributor at [Neorg](https://github.com/vhyrro/neorg), primarly focused on GTD implementation.
 
